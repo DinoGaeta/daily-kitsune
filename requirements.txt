@@ -6,4 +6,3 @@ nltk
 sumy
 beautifulsoup4
 deep-translator
-lxlm
