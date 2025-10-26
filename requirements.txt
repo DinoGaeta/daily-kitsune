@@ -4,4 +4,6 @@ Pillow
 python-dotenv
 nltk
 sumy
-beautifulsoup4  
+beautifulsoup4
+deep-translator
+lxlm
